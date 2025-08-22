@@ -22,7 +22,7 @@ demothonco/opcua/shopfloor/drillingMachine/measured/temperature
 ## Setup
 
 ### Snowflake
-Request a Snowflake account through IT
+Request a Snowflake account through IT.
 
 ### Azure  
 Use Azure-Template-demothon-ral-2025.zip to create the Azure artefects.
@@ -30,7 +30,7 @@ Use Azure-Template-demothon-ral-2025.zip to create the Azure artefects.
 ### Solace Cloud
 Create two cloud brokers and mesh them.  
 Create the queues & subscriptions.
-Create the cloud micro-integrations for Snowflake & Azure
+Create the cloud micro-integrations for Snowflake & Azure.
 
 ### OPCUA 
 Use docker compose to install the OPCUA generator and micro-integration.
