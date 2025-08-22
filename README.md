@@ -1,7 +1,7 @@
 # OT-to-cloud
 
 ## What 
-![image](what.png)
+![image](What.png)
 
 ## Overview
 ![image](how2.png)
@@ -22,12 +22,12 @@ demothonco/opcua/shopfloor/drillingMachine/measured/temperature
 
 ## Installation
 
-Create two cloud brokers and mesh them.  Create the queues.
+Create two cloud brokers and mesh them.  Create the queues & subscriptions.
 
 Use docker compose to install the OPCUA generator and micro-integration.
 
 Use Azure-Template-demothon-ral-2025.zip to create the Azure artefects.
 
-For Fabric sign up for a demo account (30 days) create the event stream
+For Fabric sign up for a demo account (30 days) create the event stream.
 ![image](EventStream.PNG)
 
